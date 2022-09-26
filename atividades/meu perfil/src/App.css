@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+footer {
+position: absolute;
+width: 100%;
+bottom: 0%;
+font-size: 30px;
+color: black;
+font-weight: bold;
+}
+section{
+  border-radius: 2%;
+  background-color: rgba(68, 68, 68, 0.288);
+  
+  margin-left: 30%;
+  margin-right: 30%;
+  
+}
